@@ -1,0 +1,61 @@
+Province,Year,Immigration intensity %,Real GDP growth %
+Alberta,2019,1.16,0.09
+Alberta,2020,0.33,-7.83
+Alberta,2021,0.94,5.23
+Alberta,2022,2.19,5.87
+Alberta,2023,3.35,2.48
+Alberta,2024,2.92,3.0
+British Columbia,2019,1.58,2.63
+British Columbia,2020,0.03,-3.1
+British Columbia,2021,1.61,7.7
+British Columbia,2022,2.88,4.83
+British Columbia,2023,3.47,2.78
+British Columbia,2024,2.11,1.12
+Manitoba,2019,1.41,1.18
+Manitoba,2020,0.5,-4.1
+Manitoba,2021,1.44,1.43
+Manitoba,2022,2.9,4.84
+Manitoba,2023,3.37,2.77
+Manitoba,2024,2.62,1.65
+New Brunswick,2019,0.97,1.34
+New Brunswick,2020,0.34,-3.57
+New Brunswick,2021,1.13,5.31
+New Brunswick,2022,2.24,2.22
+New Brunswick,2023,2.93,1.96
+New Brunswick,2024,2.54,2.67
+Newfoundland and Labrador,2019,0.46,4.02
+Newfoundland and Labrador,2020,-0.05,-4.82
+Newfoundland and Labrador,2021,0.64,1.0
+Newfoundland and Labrador,2022,1.41,-1.06
+Newfoundland and Labrador,2023,1.82,-3.0
+Newfoundland and Labrador,2024,1.67,2.66
+Nova Scotia,2019,1.14,3.42
+Nova Scotia,2020,0.12,-4.55
+Nova Scotia,2021,1.05,6.38
+Nova Scotia,2022,2.21,5.13
+Nova Scotia,2023,2.63,2.38
+Nova Scotia,2024,1.86,3.13
+Ontario,2019,1.65,2.08
+Ontario,2020,0.25,-4.54
+Ontario,2021,1.64,6.07
+Ontario,2022,3.11,4.41
+Ontario,2023,3.88,2.4
+Ontario,2024,2.27,1.64
+Prince Edward Island,2019,2.38,4.58
+Prince Edward Island,2020,0.9,-3.03
+Prince Edward Island,2021,1.96,7.84
+Prince Edward Island,2022,3.05,5.14
+Prince Edward Island,2023,3.53,2.95
+Prince Edward Island,2024,2.2,3.77
+Quebec,2019,1.24,2.83
+Quebec,2020,0.23,-4.74
+Quebec,2021,0.69,7.25
+Quebec,2022,1.67,4.53
+Quebec,2023,2.11,0.73
+Quebec,2024,1.68,1.71
+Saskatchewan,2019,1.48,-0.45
+Saskatchewan,2020,0.49,-4.26
+Saskatchewan,2021,1.05,-2.62
+Saskatchewan,2022,2.61,10.1
+Saskatchewan,2023,3.34,3.08
+Saskatchewan,2024,2.73,2.98

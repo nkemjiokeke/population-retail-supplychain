@@ -1,0 +1,11 @@
+code,Province,Latest pop growth %,Exposure score,Decision
+CA-ON,Ontario,-0.94,91.6,Pull back
+CA-QC,Quebec,-0.28,70.9,Pull back
+CA-BC,British Columbia,-0.93,65.8,Pull back
+CA-MB,Manitoba,-0.28,50.4,Pull back
+CA-NS,Nova Scotia,-0.02,43.5,Hold
+CA-NL,Newfoundland and Labrador,-0.28,41.1,Pull back
+CA-PE,Prince Edward Island,0.23,35.9,Hold
+CA-SK,Saskatchewan,0.12,33.2,Hold
+CA-NB,New Brunswick,-0.06,31.6,Hold
+CA-AB,Alberta,0.94,20.3,Grow
