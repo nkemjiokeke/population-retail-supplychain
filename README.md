@@ -4,6 +4,14 @@
 
 All figures come from official sources. Citations are in `data/SOURCES.md`. Written in my own voice.
 
+## Visuals
+
+![Growth came from more people, not output per person](images/03-1.png)
+
+![Exposure score by province, and the call it drives](images/03-2.png)
+
+![Newcomers were the entire population increase](images/03-3.png)
+
 ## The question
 Immigration is often credited with growing Canada's economy. I wanted to test that with real numbers for the ten provinces from 2018 to 2024, and then ask what it means for retailers now that immigration levels are being cut.
 
